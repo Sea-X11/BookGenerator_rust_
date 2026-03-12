@@ -1,0 +1,5 @@
+/Users/xu/Downloads/files/target/debug/build/quote-855b33fad8764043/build_script_build-855b33fad8764043.d: /Users/xu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.45/build.rs
+
+/Users/xu/Downloads/files/target/debug/build/quote-855b33fad8764043/build_script_build-855b33fad8764043: /Users/xu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.45/build.rs
+
+/Users/xu/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/quote-1.0.45/build.rs:
